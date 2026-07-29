@@ -15,7 +15,7 @@ NWIKI é uma aplicação que imita o Dokuwiki, um excelente editor de wiki hospe
 
 https://www.kratomsoftware.com.br/wiki
 
-# Examples
+# Projeto
 ## .ENV example
 
 ```
