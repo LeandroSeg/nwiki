@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "passwordHash": "$2a$12$KTUTWs5Fp8h4QAOOgM2IQu4thZdmVpGwGm8AoL4ZaiTHGjD1VsD1.",
+      "email": "suporte1@kratomsoftware.com.br",
+      "role": "admin",
+      "active": true
+    }
+  ]
+}
