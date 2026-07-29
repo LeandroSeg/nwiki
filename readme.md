@@ -1,4 +1,21 @@
+# NWIKI
 
+NWIKI é uma aplicação que imita o Dokuwiki, um excelente editor de wiki hospedável que não usa banco de dados.  O NWIKI está em GPL-3.0.
+
+# Teste local
+
+- baixe o projeto do github
+- npm run dev
+
+# Produção nuvem
+
+- vide deploy-ubuntu.md no root deste repo
+
+# Demo url
+
+https://www.kratomsoftware.com.br/wiki
+
+# Examples
 ## .ENV example
 
 ```
